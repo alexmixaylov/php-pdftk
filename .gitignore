@@ -3,3 +3,4 @@ composer.lock
 /vendor/
 *.swp
 .phpunit.result.cache
+.idea

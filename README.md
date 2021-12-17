@@ -46,7 +46,7 @@ A PDF conversion and form utility based on pdftk.
 You should use [composer](https://getcomposer.org/) to install this library.
 
 ```
-composer require mikehaertl/php-pdftk
+composer require alexmixaylov/php-pdftk
 ```
 
 ## Examples
